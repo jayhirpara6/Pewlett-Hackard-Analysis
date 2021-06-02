@@ -13,10 +13,19 @@ See screenshot below:
 
  
 
-![](../main/Retiring_Population.png)
+![](../main/Retiring_Population.png) ![](../main/mentorship_participants.png)
 
-* They make up approximately 64% of the retiring population.
+* Senior Engineers/Senior Staff make up 64% of the retiring population.
+* Upon furhter investigation into the mentorship_eligiblity table
+	* we find that there are a significant amount of Senior Engineers/Staff that are eligible to be participants
+* 1,549 employees are eligible for the mentorship program
+* There are 33,118 employees currently employed.
+
 
 #### Summary
 
+##### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 ######
+
+##### Are there enough qualified-retirement-ready empoloyees in the departments to mentor the next generation of PH Employees?
+
