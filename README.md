@@ -25,7 +25,15 @@ See screenshot below:
 #### Summary
 
 ##### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-######
+###### Based on the below code - 
 
-##### Are there enough qualified-retirement-ready empoloyees in the departments to mentor the next generation of PH Employees?
+##### Are there enough qualified-retirement-ready employees in the departments to mentor the next generation of PH Employees?
+###### The below code breaks down the retirement population from retirement_info by department. 
 
+![](../main/retire_dept.png) ![](../main/retire_dept_output.png)
+
+###### We also have a breakdown of the mentorship participants by department by adjusting the code slightly
+
+![](../main/mentor_dept.png) ![](../main/mentor_dept_output.png)
+
+###### Based on that query looks like the mentorship program will have enough mentors based on the departments.
