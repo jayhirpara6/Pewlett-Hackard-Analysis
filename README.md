@@ -25,7 +25,7 @@ See screenshot below:
 #### Summary
 
 ##### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-###### Based on the below code - 
+###### Based on the screenshots below in question 2 - over 40k roles will need to be filled.
 
 ##### Are there enough qualified-retirement-ready employees in the departments to mentor the next generation of PH Employees?
 ###### The below code breaks down the retirement population from retirement_info by department. 
