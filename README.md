@@ -7,9 +7,15 @@
 
 #### Results
 
-###### As expected, given that there is an age requirement to qualify for retirement, the majority of retiring employees had either Senior Engineer or Senior Staff in their titles. They make up approximately 64% of the retiring population. See screenshot below:
+###### As expected, given that there is an age requirement to qualify for retirement, the majority of retiring employees had either Senior Engineer or Senior Staff in their titles. 
+
+See screenshot below:
+
+ 
 
 ![](../main/Retiring_Population.png)
+
+* They make up approximately 64% of the retiring population.
 
 #### Summary
 
